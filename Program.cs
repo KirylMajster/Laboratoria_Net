@@ -41,7 +41,7 @@ namespace FizzBuzzApp
             }
             else
             {
-                Console.WriteLine("Błąd: Niepoprawna liczba.");
+                Console.WriteLine("Błąd");
             }
         }
     }
